@@ -1,4 +1,4 @@
-# WCS-GitQuest
+Local
 
 This is a quest about merging conflicts on git
 
