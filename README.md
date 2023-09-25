@@ -1,4 +1,4 @@
-# WCS-GitQuest
+Remote
 
 This is a quest about merging conflicts on git
 
